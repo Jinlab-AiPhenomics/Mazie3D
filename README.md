@@ -1,5 +1,5 @@
 # Mazie3D
-The Maize3D dataset includes two parts, one for individual maize segmentation and the other for stem and leaf segmentation.
+The Maize3D dataset includes two parts, one for individual maize segmentation (Jin et al., 2018) and the other for stem and leaf segmentation (Jin et al., 2020).
 
 # References
 **Jin Shichao**, Su Yanjun, Gao Shang, Wu Fangfang, Hu Tianyu, Liu Jin, Li Wenkai, Wang Dingchang, Chen Shaojiang, Jiang Yuanxi, Pang Shuxin, Guo Qinghua, 2018. Deep Learning: Individual Maize Segmentation From Terrestrial Lidar Data Using Faster R-CNN and Regional Growth Algorithms. Frontiers in Plant Science 9, 866-875.  
