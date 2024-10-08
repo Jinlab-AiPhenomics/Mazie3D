@@ -21,7 +21,7 @@ x_y1_y2_idx_201708test.h5
 
 
 
-# The dataset   
+# Special Notes  
 Since the corresponding data set was not sorted out in time after the article was published, some data were difficult to find in the past few years, resulting in some discrepancies between the data and the original text.  
 We deeply regret this inconvenience.   
 However, we believe some of the datasets still have great value for similar works.  
